@@ -48,7 +48,9 @@ motivate him to make me even better. All the donation money will go to a better 
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](paypal.me/frankboyop), ."""
 
-IMPORTED = {}
+CAPAMERICA_IMG = "https://telegra.ph/file/a66071e0ec24fd95f58f0.jpg"
+
+IMPORTED = {
 MIGRATEABLE = []
 HELPABLE = {}
 STATS = []
